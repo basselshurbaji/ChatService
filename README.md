@@ -4,11 +4,11 @@
 
 Completed during the Spring 2019-2020 semester by Bassel Shurbaji and Hadi Sandid for the course _EECE503e - Web Services in the Cloud_ .
 
-The project's objective was to learn more about back-end development and CD/CI systems, using the ASP.NET Core framework and the Azure DevOps platform.
+The purpose of the project was to get familiar with RESTful Web-Services (ASP.NET Core), Cloud Computing, DevOPs, Unit Testing, Integration Testing, Continuous Integration and Deployment, Inversion of Control, Dependency Injection, and the SOLID Design Principles.
 
 ## Features
 
-Full API documentation can be found [here](https://github.com/hsandid/ChatService/blob/master/APIs_Documentation.md)
+Full API documentation can be found [here](https://github.com/basselshurbaji/ChatService/blob/master/APIs_Documentation.md)
 
 The following microservices are available :
 
