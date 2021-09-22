@@ -10,21 +10,21 @@ The purpose of the project was to get familiar with RESTful Web-Services (ASP.NE
 
 Full API documentation can be found [here](https://github.com/basselshurbaji/ChatService/blob/master/APIs_Documentation.md)
 
-The following microservices are available :
+The following services are available :
 
-- **Profile Microservice**
+- **Profile
 
    - Uses Azure Table storage to store profile data
    - Model : Controller <=> Storage Layer
    - Logging available for each microservice event
 
-- **Images Microservice**
+- **Images
 
    - Uses Azure Blob storage to store profile images
    - Model : Controller <=> Storage Layer
    - Logging available for each microservice event
 
-- **Conversations Microservice**
+- **Conversations
 
    - Uses Azure DocumentDB to store conversations, and their related messages
    - DocumentDB allows support for pagination when fetching conversations or messages
@@ -33,7 +33,7 @@ The following microservices are available :
 
 ## Testing
 
-Integration tests, Unit tests, and Deployment tests are available for each microservice.
+Integration tests, Unit tests, and Deployment tests are available for each service.
 
 ## Requirements
 
